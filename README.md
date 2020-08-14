@@ -65,3 +65,5 @@ Kmeans.py is the implementation of Kmeans.
 Seurat.R is the implementation of Seurat. 
 6. SNN_Cliq
 SNN.m and cliq.py are the implementation of SNN-Cliq.
+7. SINCERA
+sincera.r is the implementation of SINCERA.
